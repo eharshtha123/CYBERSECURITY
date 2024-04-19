@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=".git/logs/refs/remotes/origin"/>
+	<classpathentry kind="src" path=".git/refs/remotes/origin"/>
+	<classpathentry kind="src" path="SAMPLE/src"/>
+	<classpathentry kind="output" path="SAMPLE/bin"/>
+</classpath>

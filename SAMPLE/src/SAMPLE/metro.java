@@ -1,5 +1,5 @@
 package SAMPLE;
-
+//kjbkbjkb
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
