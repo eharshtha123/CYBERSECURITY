@@ -1,5 +1,6 @@
 package SAMPLE;
-
+//GFYU
+//HIUYGFTT
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
