@@ -1,5 +1,6 @@
 package SAMPLE;
-
+//harhy
+//mani
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
